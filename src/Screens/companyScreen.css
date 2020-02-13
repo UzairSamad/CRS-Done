@@ -1,0 +1,30 @@
+.student-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 600px;
+  border: 1px solid rgb(143, 141, 141);
+  padding: 8px;
+}
+.span-company {
+  font-family: cursive;
+}
+.main-li {
+  font-family: cursive;
+  font-size: 22px;
+  /* padding-right: 25px; */
+  margin-left: 220px;
+  font-weight: 150px;
+}
+.main-div {
+  display: flex;
+  flex-direction: column;
+}
+.admin-css {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 600px;
+  border: 1px solid rgb(143, 141, 141);
+  padding: 8px;
+}

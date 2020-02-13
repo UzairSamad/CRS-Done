@@ -1,0 +1,40 @@
+/* implemented on all form component */
+.form-containerlogin {
+  width: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  padding-bottom: 15px;
+}
+.form-field {
+  padding: 20px;
+  background-color: rgba(203, 235, 233, 0.541);
+  border-radius: 5px;
+  padding-bottom: 25px;
+}
+
+.login-heading {
+  font-family: "Geneva, Verdana, sans-serif";
+}
+
+.register-field {
+  padding: 15px;
+  background-color: rgba(230, 219, 233, 0.349);
+  border-radius: 5px;
+  padding-bottom: 25px;
+}
+
+.form-containerregister {
+  width: 500px;
+  padding: 20px;
+  border-radius: 5px;
+  padding-bottom: 15px;
+}
+/* create job component css */
+
+.jobData {
+  width: 300px;
+}
+.jobHeading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}

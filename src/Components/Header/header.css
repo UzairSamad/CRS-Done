@@ -1,0 +1,15 @@
+.header-container {
+  background-color: rgba(19, 134, 119, 0.678);
+  height: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  position: relative;
+  /* width: 1240px; */
+}
+.header-link {
+  display: flex;
+  padding-left: 10px;
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}

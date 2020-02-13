@@ -1,0 +1,12 @@
+.submitButton {
+  width: 150px;
+  /* height: auto; */
+  padding: 10px;
+  /* margin-right: auto */
+  display: block;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  color: wheat;
+  background-color: rgba(29, 124, 212, 0.685);
+}

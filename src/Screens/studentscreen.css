@@ -1,0 +1,23 @@
+.job-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 600px;
+  border: 1px solid rgb(143, 141, 141);
+  padding: 10px;
+  font-family: cursive;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+.apply-btn {
+  background: red;
+  border: none;
+  color: white;
+  font-size: 12px;
+  margin-left: 500px;
+  padding: 5px;
+  width: 100px;
+  cursor: pointer;
+  border-radius: 5px;
+}

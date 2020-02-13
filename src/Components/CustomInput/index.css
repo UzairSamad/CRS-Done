@@ -1,0 +1,10 @@
+.custom-input {
+  width: 200px;
+  /* height: auto; */
+  padding: 10px;
+  /* margin-right: auto */
+  display: block;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+}
